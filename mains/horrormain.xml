@@ -4,7 +4,12 @@
             <link>https://raw.githubusercontent.com/bcrusher29/totalchaos/master/horror/misc/thekings.xml</link>
             <thumbnail>https://i.ytimg.com/vi/5RcG9qjOaDI/sddefault.jpg</thumbnail>
         </dir>
-
+		
+        <dir>
+            <title>test</title>
+            <link>https://raw.githubusercontent.com/bcrusher29/totalchaos/master/horror/misc/example.xml</link>
+            <thumbnail>https://i.ytimg.com/vi/5RcG9qjOaDI/sddefault.jpg</thumbnail>
+        </dir>
         <dir>
             <title>Mixed</title>
             <link>https://raw.githubusercontent.com/bcrusher29/totalchaos/master/horror/misc/mix.xml</link>
